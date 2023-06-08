@@ -16,7 +16,7 @@ namespace learning.net.Controllers
             return View();
         }
 
-        [Route("random")]
+        [Route("testingchanges")]
         public ActionResult Random()
         {
             return View();
